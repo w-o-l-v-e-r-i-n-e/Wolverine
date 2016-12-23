@@ -1,702 +1,223 @@
-# W-o-l-v-e-r-i-n-e
 #EXTM3U
-#EXTINF:-1,UK=Disney-Junior-HD
-http://149.202.198.186:50100/live/braa/braa/273.ts
-#EXTINF:-1,UK=Sky-Movies-Family-HD
-http://149.202.198.186:50100/live/braa/braa/275.ts
-#EXTINF:-1,UK=Sky-Movies-Drama-HD
-http://149.202.198.186:50100/live/braa/braa/276.ts
-#EXTINF:-1,UK=Sky-Movies-Comedy-HD
-http://149.202.198.186:50100/live/braa/braa/274.ts
-#EXTINF:-1,UK=Sky-Sport-1-HD
-http://149.202.198.186:50100/live/braa/braa/268.ts
-#EXTINF:-1,UK=Sky-Sport-2-HD
-http://149.202.198.186:50100/live/braa/braa/269.ts
-#EXTINF:-1,UK=Sky-Sport-3-HD
-http://149.202.198.186:50100/live/braa/braa/270.ts
-#EXTINF:-1,UK=Sky-Sport-5-HD
-http://149.202.198.186:50100/live/braa/braa/271.ts
-#EXTINF:-1,UK=RTE-1-HD
-http://149.202.198.186:50100/live/braa/braa/277.ts
-#EXTINF:-1,UK=Sky-Movies-Select-HD
-http://149.202.198.186:50100/live/braa/braa/272.ts
-#EXTINF:-1,UK=BBC-3-HD
-http://149.202.198.186:50100/live/braa/braa/839.ts
-#EXTINF:-1,UK=BBC-2-HD
-http://149.202.198.186:50100/live/braa/braa/853.ts
-#EXTINF:-1,UK=BBC-1-HD
-http://149.202.198.186:50100/live/braa/braa/854.ts
-#EXTINF:-1,UK=Animal-Planet-HD
-http://149.202.198.186:50100/live/braa/braa/841.ts
-#EXTINF:-1,UK=True-Movies-2-HD
-http://149.202.198.186:50100/live/braa/braa/679.ts
-#EXTINF:-1,UK=True-Movies-1-HD
-http://149.202.198.186:50100/live/braa/braa/680.ts
-#EXTINF:-1,UK=Sky-Sport-News-HD
-http://149.202.198.186:50100/live/braa/braa/802.ts
-#EXTINF:-1,UK=Sky-Sport-F1-HD
-http://149.202.198.186:50100/live/braa/braa/422.ts
-#EXTINF:-1,UK=Sky-Sport-4-HD
-http://149.202.198.186:50100/live/braa/braa/425.ts
-#EXTINF:-1,UK=Sky-Movies-Premiere-HD
-http://149.202.198.186:50100/live/braa/braa/612.ts
-#EXTINF:-1,UK=Sky-Movies-Action-HD
-http://149.202.198.186:50100/live/braa/braa/627.ts
-#EXTINF:-1,UK=RTE-2-HD
-http://149.202.198.186:50100/live/braa/braa/804.ts
-#EXTINF:-1,UK=National-Geo-HD
-http://149.202.198.186:50100/live/braa/braa/842.ts
-#EXTINF:-1,UK=Racing-HD
-http://149.202.198.186:50100/live/braa/braa/720.ts
-#EXTINF:-1,UK=QVC-4-HD
-http://149.202.198.186:50100/live/braa/braa/724.ts
-#EXTINF:-1,UK=ITV-4-HD
-http://149.202.198.186:50100/live/braa/braa/845.ts
-#EXTINF:-1,UK=ITV-3-HD
-http://149.202.198.186:50100/live/braa/braa/846.ts
-#EXTINF:-1,UK=ITV-2-HD
-http://149.202.198.186:50100/live/braa/braa/847.ts
-#EXTINF:-1,UK=ITV-1-HD
-http://149.202.198.186:50100/live/braa/braa/848.ts
-#EXTINF:-1,UK=Food-Network-HD
-http://149.202.198.186:50100/live/braa/braa/849.ts
-#EXTINF:-1,UK=Disney-Channel-HD
-http://149.202.198.186:50100/live/braa/braa/610.ts
-#EXTINF:-1,UK=Discovery-Science-HD
-http://149.202.198.186:50100/live/braa/braa/850.ts
-#EXTINF:-1,UK=Discovery-Investigation-HD
-http://149.202.198.186:50100/live/braa/braa/851.ts
-#EXTINF:-1,UK=Discovery-History-HD
-http://149.202.198.186:50100/live/braa/braa/852.ts
-#EXTINF:-1,UK=Crime-and-investigation-HD
-http://149.202.198.186:50100/live/braa/braa/625.ts
-#EXTINF:-1,UK=CBS-Reality-HD
-http://149.202.198.186:50100/live/braa/braa/626.ts
-#EXTINF:-1,UK=CBS-Drama-HD
-http://149.202.198.186:50100/live/braa/braa/629.ts
-#EXTINF:-1,UK=CBS-Action-HD
-http://149.202.198.186:50100/live/braa/braa/624.ts
-#EXTINF:-1,UK=BT-Sport-Extra-HD
-http://149.202.198.186:50100/live/braa/braa/803.ts
-#EXTINF:-1,UK=BT-Sport-2-HD
-http://149.202.198.186:50100/live/braa/braa/421.ts
-#EXTINF:-1,UK=BT-Sport-1-HD
-http://149.202.198.186:50100/live/braa/braa/424.ts
-#EXTINF:-1,UK=BOX-Nation-HD
-http://149.202.198.186:50100/live/braa/braa/843.ts
-#EXTINF:-1,UK=BBC-4-HD
-http://149.202.198.186:50100/live/braa/braa/840.ts
-#EXTINF:-1,UK=Fox-News-HD
-http://149.202.198.186:50100/live/braa/braa/874.ts
-#EXTINF:-1,UK=BBC-News-HD
-http://149.202.198.186:50100/live/braa/braa/872.ts
-#EXTINF:-1,UK=ABC-News-HD
-http://149.202.198.186:50100/live/braa/braa/873.ts
-#EXTINF:-1,UK=Sky-News-HD
-http://149.202.198.186:50100/live/braa/braa/871.ts
-#EXTINF:-1,UK=QVC-3-HD
-http://149.202.198.186:50100/live/braa/braa/723.ts
-#EXTINF:-1,UK=QVC-2-HD
-http://149.202.198.186:50100/live/braa/braa/722.ts
-#EXTINF:-1,UK=QVC-1-HD
-http://149.202.198.186:50100/live/braa/braa/721.ts
-
 #EXTINF:-1,==-ENGLAND-==
-http://88.198.34.144:8000/live/ess123/ess123/844.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/844.ts
 #EXTINF:-1,UK:3e
-http://88.198.34.144:8000/live/ess123/ess123/1583.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1583.ts
 #EXTINF:-1,UK:5_Star
-http://88.198.34.144:8000/live/ess123/ess123/1582.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1582.ts
 #EXTINF:-1,UK:5_Usa
-http://88.198.34.144:8000/live/ess123/ess123/1584.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1584.ts
 #EXTINF:-1,UK:Alibi
-http://88.198.34.144:8000/live/ess123/ess123/556.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/556.ts
 #EXTINF:-1,UK:Animal_Planet
-http://88.198.34.144:8000/live/ess123/ess123/743.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/743.ts
 #EXTINF:-1,UK:Baby_TV
-http://88.198.34.144:8000/live/ess123/ess123/1951.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1951.ts
 #EXTINF:-1,UK:BBC_1
-http://88.198.34.144:8000/live/ess123/ess123/1212.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1212.ts
 #EXTINF:-1,UK:BBC_2
-http://88.198.34.144:8000/live/ess123/ess123/1213.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1213.ts
 #EXTINF:-1,UK:BBC_3
-http://88.198.34.144:8000/live/ess123/ess123/1214.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1214.ts
 #EXTINF:-1,UK:BBC_4
-http://88.198.34.144:8000/live/ess123/ess123/1215.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1215.ts
 #EXTINF:-1,UK:BBC_News
-http://88.198.34.144:8000/live/ess123/ess123/1585.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1585.ts
 #EXTINF:-1,UK:BBC_Parliament
-http://88.198.34.144:8000/live/ess123/ess123/1027.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1027.ts
 #EXTINF:-1,UK:BBC_Sports
-http://88.198.34.144:8000/live/ess123/ess123/1591.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1591.ts
 #EXTINF:-1,UK:BBC_World_News
-http://88.198.34.144:8000/live/ess123/ess123/1600.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1600.ts
 #EXTINF:-1,UK:Boomerang
-http://88.198.34.144:8000/live/ess123/ess123/583.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/583.ts
 #EXTINF:-1,UK:Box_Nation
-http://88.198.34.144:8000/live/ess123/ess123/623.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/623.ts
 #EXTINF:-1,UK:BT_SPORT_1
-http://88.198.34.144:8000/live/ess123/ess123/712.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/712.ts
 #EXTINF:-1,UK:BT_SPORT_2
-http://88.198.34.144:8000/live/ess123/ess123/711.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/711.ts
 #EXTINF:-1,UK:BT_SPORT_Europa
-http://88.198.34.144:8000/live/ess123/ess123/1960.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1960.ts
 #EXTINF:-1,UK:Cartoon_Network
-http://88.198.34.144:8000/live/ess123/ess123/1953.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1953.ts
 #EXTINF:-1,UK:CBS_ACTION
-http://88.198.34.144:8000/live/ess123/ess123/696.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/696.ts
 #EXTINF:-1,UK:CBS_DRAMA
-http://88.198.34.144:8000/live/ess123/ess123/615.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/615.ts
 #EXTINF:-1,UK:CBS_REALITY
-http://88.198.34.144:8000/live/ess123/ess123/557.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/557.ts
 #EXTINF:-1,UK:Channel_4
-http://88.198.34.144:8000/live/ess123/ess123/1599.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1599.ts
 #EXTINF:-1,UK:Channel_5
-http://88.198.34.144:8000/live/ess123/ess123/1961.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1961.ts
 #EXTINF:-1,UK:Chelsea_TV
-http://88.198.34.144:8000/live/ess123/ess123/1028.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1028.ts
 #EXTINF:-1,UK:CNN
-http://88.198.34.144:8000/live/ess123/ess123/1954.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1954.ts
 #EXTINF:-1,UK:Comedy_Central
-http://88.198.34.144:8000/live/ess123/ess123/1581.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1581.ts
 #EXTINF:-1,UK:Comedy_Extra
-http://88.198.34.144:8000/live/ess123/ess123/1580.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1580.ts
 #EXTINF:-1,UK:Dave
-http://88.198.34.144:8000/live/ess123/ess123/1601.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1601.ts
 #EXTINF:-1,UK:Discovery
-http://88.198.34.144:8000/live/ess123/ess123/563.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/563.ts
 #EXTINF:-1,UK:Discovery_History
-http://88.198.34.144:8000/live/ess123/ess123/584.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/584.ts
 #EXTINF:-1,UK:Discovery_Investigation
-http://88.198.34.144:8000/live/ess123/ess123/1030.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1030.ts
 #EXTINF:-1,UK:Discovery_Science
-http://88.198.34.144:8000/live/ess123/ess123/1588.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1588.ts
 #EXTINF:-1,UK:Discovery_Shed
-http://88.198.34.144:8000/live/ess123/ess123/1589.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1589.ts
 #EXTINF:-1,UK:Discovery_Turbo
-http://88.198.34.144:8000/live/ess123/ess123/522.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/522.ts
 #EXTINF:-1,UK:Disney_Channel
-http://88.198.34.144:8000/live/ess123/ess123/709.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/709.ts
 #EXTINF:-1,UK:Disney_Junior
-http://88.198.34.144:8000/live/ess123/ess123/817.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/817.ts
 #EXTINF:-1,UK:Disney_XD
-http://88.198.34.144:8000/live/ess123/ess123/1029.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1029.ts
 #EXTINF:-1,UK:Dmax
-http://88.198.34.144:8000/live/ess123/ess123/1217.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1217.ts
 #EXTINF:-1,UK:E!
-http://88.198.34.144:8000/live/ess123/ess123/698.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/698.ts
 #EXTINF:-1,UK:E4
-http://88.198.34.144:8000/live/ess123/ess123/1218.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1218.ts
 #EXTINF:-1,UK:ESPN
-http://88.198.34.144:8000/live/ess123/ess123/1950.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1950.ts
 #EXTINF:-1,UK:Eurosport
-http://88.198.34.144:8000/live/ess123/ess123/755.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/755.ts
 #EXTINF:-1,UK:Fashion
-http://88.198.34.144:8000/live/ess123/ess123/1955.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1955.ts
 #EXTINF:-1,UK:Film_4
-http://88.198.34.144:8000/live/ess123/ess123/558.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/558.ts
 #EXTINF:-1,UK:Food_Network
-http://88.198.34.144:8000/live/ess123/ess123/710.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/710.ts
 #EXTINF:-1,UK:Fox
-http://88.198.34.144:8000/live/ess123/ess123/332.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/332.ts
 #EXTINF:-1,UK:Gold
-http://88.198.34.144:8000/live/ess123/ess123/1593.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1593.ts
 #EXTINF:-1,UK:History
-http://88.198.34.144:8000/live/ess123/ess123/320.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/320.ts
 #EXTINF:-1,UK:Horror
-http://88.198.34.144:8000/live/ess123/ess123/1590.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1590.ts
 #EXTINF:-1,UK:I_Film_English
-http://88.198.34.144:8000/live/ess123/ess123/1957.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1957.ts
 #EXTINF:-1,UK:ITV_1
-http://88.198.34.144:8000/live/ess123/ess123/796.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/796.ts
 #EXTINF:-1,UK:ITV_2
-http://88.198.34.144:8000/live/ess123/ess123/329.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/329.ts
 #EXTINF:-1,UK:ITV_3
-http://88.198.34.144:8000/live/ess123/ess123/752.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/752.ts
 #EXTINF:-1,UK:ITV_4
-http://88.198.34.144:8000/live/ess123/ess123/527.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/527.ts
 #EXTINF:-1,UK:ITV_Be
-http://88.198.34.144:8000/live/ess123/ess123/1958.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1958.ts
 #EXTINF:-1,UK:KixMax
-http://88.198.34.144:8000/live/ess123/ess123/1594.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1594.ts
 #EXTINF:-1,UK:Living
-http://88.198.34.144:8000/live/ess123/ess123/1607.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1607.ts
 #EXTINF:-1,UK:London
-http://88.198.34.144:8000/live/ess123/ess123/1222.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1222.ts
 #EXTINF:-1,UK:Manchester_United
-http://88.198.34.144:8000/live/ess123/ess123/1949.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1949.ts
 #EXTINF:-1,UK:More_4
-http://88.198.34.144:8000/live/ess123/ess123/1596.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1596.ts
 #EXTINF:-1,UK:Movies_Action
-http://88.198.34.144:8000/live/ess123/ess123/489.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/489.ts
 #EXTINF:-1,UK:Movies_Comedy
-http://88.198.34.144:8000/live/ess123/ess123/749.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/749.ts
 #EXTINF:-1,UK:Movies_Crime
-http://88.198.34.144:8000/live/ess123/ess123/399.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/399.ts
 #EXTINF:-1,UK:Movies_Disney
-http://88.198.34.144:8000/live/ess123/ess123/75.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/75.ts
 #EXTINF:-1,UK:Movies_Drama
-http://88.198.34.144:8000/live/ess123/ess123/534.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/534.ts
 #EXTINF:-1,UK:Movies_Family
-http://88.198.34.144:8000/live/ess123/ess123/496.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/496.ts
 #EXTINF:-1,UK:Movies_Modern_Great
-http://88.198.34.144:8000/live/ess123/ess123/499.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/499.ts
 #EXTINF:-1,UK:Movies_Premiere
-http://88.198.34.144:8000/live/ess123/ess123/744.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/744.ts
 #EXTINF:-1,UK:Movies_ScFi&Horror
-http://88.198.34.144:8000/live/ess123/ess123/398.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/398.ts
 #EXTINF:-1,UK:Movies_Select
-http://88.198.34.144:8000/live/ess123/ess123/159.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/159.ts
 #EXTINF:-1,UK:Movies_Thriller
-http://88.198.34.144:8000/live/ess123/ess123/514.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/514.ts
 #EXTINF:-1,UK:MTV_CLASSIC
-http://88.198.34.144:8000/live/ess123/ess123/152.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/152.ts
 #EXTINF:-1,UK:MTV_HITS
-http://88.198.34.144:8000/live/ess123/ess123/1220.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1220.ts
 #EXTINF:-1,UK:MTV_MUSIC
-http://88.198.34.144:8000/live/ess123/ess123/739.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/739.ts
 #EXTINF:-1,UK:National_Geographic
-http://88.198.34.144:8000/live/ess123/ess123/564.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/564.ts
 #EXTINF:-1,UK:National_Geographic_Wild
-http://88.198.34.144:8000/live/ess123/ess123/443.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/443.ts
 #EXTINF:-1,UK:Nickelodeon
-http://88.198.34.144:8000/live/ess123/ess123/1952.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1952.ts
 #EXTINF:-1,UK:NickJr._+1
-http://88.198.34.144:8000/live/ess123/ess123/1602.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1602.ts
 #EXTINF:-1,UK:NickToons
-http://88.198.34.144:8000/live/ess123/ess123/1595.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1595.ts
 #EXTINF:-1,UK:Pick
-http://88.198.34.144:8000/live/ess123/ess123/1597.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1597.ts
 #EXTINF:-1,UK:Rte_News_Now
-http://88.198.34.144:8000/live/ess123/ess123/1959.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1959.ts
 #EXTINF:-1,UK:Rte_One
-http://88.198.34.144:8000/live/ess123/ess123/1224.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1224.ts
 #EXTINF:-1,UK:Rte_Two
-http://88.198.34.144:8000/live/ess123/ess123/1223.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1223.ts
 #EXTINF:-1,UK:SKY_Arts
-http://88.198.34.144:8000/live/ess123/ess123/1962.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1962.ts
 #EXTINF:-1,UK:Sky_Atlantic
-http://88.198.34.144:8000/live/ess123/ess123/1221.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1221.ts
 #EXTINF:-1,UK:Sky_News
-http://88.198.34.144:8000/live/ess123/ess123/1606.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1606.ts
 #EXTINF:-1,UK:Sky_Sports_1
-http://88.198.34.144:8000/live/ess123/ess123/692.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/692.ts
 #EXTINF:-1,UK:Sky_Sports_2
-http://88.198.34.144:8000/live/ess123/ess123/672.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/672.ts
 #EXTINF:-1,UK:Sky_Sports_3
-http://88.198.34.144:8000/live/ess123/ess123/695.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/695.ts
 #EXTINF:-1,UK:Sky_Sports_4
-http://88.198.34.144:8000/live/ess123/ess123/694.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/694.ts
 #EXTINF:-1,UK:Sky_Sports_5
-http://88.198.34.144:8000/live/ess123/ess123/693.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/693.ts
 #EXTINF:-1,UK:Sky_Sports_f1
-http://88.198.34.144:8000/live/ess123/ess123/529.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/529.ts
 #EXTINF:-1,UK:Sky1
-http://88.198.34.144:8000/live/ess123/ess123/1603.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1603.ts
 #EXTINF:-1,UK:Sky2
-http://88.198.34.144:8000/live/ess123/ess123/1604.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1604.ts
 #EXTINF:-1,UK:SyFy
-http://88.198.34.144:8000/live/ess123/ess123/1219.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1219.ts
 #EXTINF:-1,UK:TCM
-http://88.198.34.144:8000/live/ess123/ess123/440.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/440.ts
 #EXTINF:-1,UK:TLC
-http://88.198.34.144:8000/live/ess123/ess123/1586.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1586.ts
 #EXTINF:-1,UK:Tru_Tv
-http://88.198.34.144:8000/live/ess123/ess123/1592.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1592.ts
 #EXTINF:-1,UK:True_Christmas
-http://88.198.34.144:8000/live/ess123/ess123/1587.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1587.ts
 #EXTINF:-1,UK:True_Crime
-http://88.198.34.144:8000/live/ess123/ess123/1031.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1031.ts
 #EXTINF:-1,UK:True_Drama
-http://88.198.34.144:8000/live/ess123/ess123/824.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/824.ts
 #EXTINF:-1,UK:True_Entertainment
-http://88.198.34.144:8000/live/ess123/ess123/1216.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1216.ts
 #EXTINF:-1,UK:True_Movies_1
-http://88.198.34.144:8000/live/ess123/ess123/581.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/581.ts
 #EXTINF:-1,UK:True_Movies_2
-http://88.198.34.144:8000/live/ess123/ess123/582.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/582.ts
 #EXTINF:-1,UK:Vh1
-http://88.198.34.144:8000/live/ess123/ess123/697.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/697.ts
 #EXTINF:-1,UK:Watch
-http://88.198.34.144:8000/live/ess123/ess123/1605.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1605.ts
 #EXTINF:-1,UK:World_Fashion
-http://88.198.34.144:8000/live/ess123/ess123/1956.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1956.ts
 #EXTINF:-1,UK:Yesterday
-http://88.198.34.144:8000/live/ess123/ess123/1598.ts
-
-#EXTINF:-1,* * * * * * * * * * UNITED KINGDOM * * * * * * * * * *
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/585.ts
-#EXTINF:-1,UK: Zee Cinema
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2155.ts
-#EXTINF:-1,UK: YESTERDAY
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2223.ts
-#EXTINF:-1,UK: Fox
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/3116.ts
-#EXTINF:-1,UK: Vivo 3
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2104.ts
-#EXTINF:-1,UK: Vivo 2
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2105.ts
-#EXTINF:-1,UK: Vivo 1
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2106.ts
-#EXTINF:-1,UK: VH1
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2156.ts
-#EXTINF:-1,UK: True Movies 2
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2107.ts
-#EXTINF:-1,UK: True Movies 1
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2157.ts
-#EXTINF:-1,UK: Travel
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2108.ts
-#EXTINF:-1,UK: TCM
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2210.ts
-#EXTINF:-1,UK: SyFy
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2109.ts
-#EXTINF:-1,UK: Sky Two
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2167.ts
-#EXTINF:-1,UK: SKY SPORTS NEWS HQ
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2158.ts
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2211.ts
-#EXTINF:-1,UK: Sky Sport 5 HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2900.ts
-#EXTINF:-1,UK: Sky Sports 4 HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2212.ts
-#EXTINF:-1,UK: Sky Sports 3 HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2213.ts
-#EXTINF:-1,UK: Sky Sports 2 HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2214.ts
-#EXTINF:-1,UK: SKY SPORTS 1 HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2217.ts
-#EXTINF:-1,UK: SKY SETANTA
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2224.ts
-#EXTINF:-1,UK: SKY SELECT
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2168.ts
-#EXTINF:-1,UK: Sky Premier Sport
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2179.ts
-#EXTINF:-1,UK: SKY ONE HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2169.ts
-#EXTINF:-1,UK: Sky One
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2215.ts
-#EXTINF:-1,UK: Sky News
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2216.ts
-#EXTINF:-1,UK: SKY MOVIES THRILLER HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2159.ts
-#EXTINF:-1,UK: Sky Movies Thriller
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2110.ts
-#EXTINF:-1,UK: SKY MOVIES SHOWCASE HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2160.ts
-#EXTINF:-1,UK: Sky Movies Select
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2111.ts
-#EXTINF:-1,UK: SKY MOVIES SCIFI HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2170.ts
-#EXTINF:-1,UK: Sky Movies Scifi
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2112.ts
-#EXTINF:-1,UK: SKY MOVIES SC-FI
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2218.ts
-#EXTINF:-1,UK: SKY MOVIES MODERN GREAT HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2171.ts
-#EXTINF:-1,UK: Sky Movies Modern Great
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2113.ts
-#EXTINF:-1,UK: SKY MOVIES MODERN
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2209.ts
-#EXTINF:-1,UK: SKY MOVIES FAMILY HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2161.ts
-#EXTINF:-1,UK: Sky Movies Drama HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2172.ts
-#EXTINF:-1,UK: SKY MOVIES DRAMA
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2219.ts
-#EXTINF:-1,UK: SKY MOVIES DISNEY HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2173.ts
-#EXTINF:-1,UK: Sky Movies Comedy HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2174.ts
-#EXTINF:-1,UK: SKY MOVIES ACTION
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2220.ts
-#EXTINF:-1,UK: Sky movie Atlantic
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2114.ts
-#EXTINF:-1,UK: Sky Monster
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2115.ts
-#EXTINF:-1,UK: SKY MODERN GREATS HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2175.ts
-#EXTINF:-1,UK: Sky Disney
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2208.ts
-#EXTINF:-1,UK: SKY ACTION
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2176.ts
-#EXTINF:-1,UK: SKY  ARTS 1
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2162.ts
-#EXTINF:-1,UK: Setanta Ireland
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2118.ts
-#EXTINF:-1,UK: RTE 2
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2177.ts
-#EXTINF:-1,UK: RTE 1
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2119.ts
-#EXTINF:-1,UK: Racing UK
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2120.ts
-#EXTINF:-1,UK: Premiere Sport HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2178.ts
-#EXTINF:-1,UK: Premier Sports
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2121.ts
-#EXTINF:-1,UK: Pick
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2122.ts
-#EXTINF:-1,UK: NICK TOONS
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2163.ts
-#EXTINF:-1,UK: National Geographic
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2123.ts
-#EXTINF:-1,UK: NATIONAL GEO
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2180.ts
-#EXTINF:-1,UK: MU TV
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2182.ts
-#EXTINF:-1,UK: MTV Music
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2183.ts
-#EXTINF:-1,UK: MTV HITS
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2184.ts
-#EXTINF:-1,UK: MTV dance
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2124.ts
-#EXTINF:-1,UK: MTV Classic
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2185.ts
-#EXTINF:-1,UK: Movies 4 Men
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2125.ts
-#EXTINF:-1,UK: More 4
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2186.ts
-#EXTINF:-1,UK: Living UK
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2126.ts
-#EXTINF:-1,UK: LIVERPOOL FC
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2164.ts
-#EXTINF:-1,UK: ITV 4
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2225.ts
-#EXTINF:-1,UK: ITV 3
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2226.ts
-#EXTINF:-1,UK: ITV 2
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2227.ts
-#EXTINF:-1,UK: ITV 1
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2228.ts
-#EXTINF:-1,UK: ITV
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2229.ts
-#EXTINF:-1,UK: Investigation Discovery
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2187.ts
-#EXTINF:-1,UK: Horror Channel
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2154.ts
-#EXTINF:-1,UK: HISTORY CHANNEL
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2188.ts
-#EXTINF:-1,UK: GOLD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2165.ts
-#EXTINF:-1,UK: Food Network
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2153.ts
-#EXTINF:-1,UK: Five UK
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2127.ts
-#EXTINF:-1,UK: Five
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2189.ts
-#EXTINF:-1,UK: Film 4 UK
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2128.ts
-#EXTINF:-1,UK: Film 4
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2190.ts
-#EXTINF:-1,UK: Eurosport 2
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2129.ts
-#EXTINF:-1,UK: Eurosport 1
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2191.ts
-#EXTINF:-1,UK: ESPN HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2192.ts
-#EXTINF:-1,UK: E4
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2130.ts
-#EXTINF:-1,UK: DMAX
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2166.ts
-#EXTINF:-1,UK: DISNEY CHANNEL
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2193.ts
-#EXTINF:-1,UK: Disney Chaneel HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2194.ts
-#EXTINF:-1,UK: Disney Junior
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2794.ts
-#EXTINF:-1,UK: Discovery Science
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2195.ts
-#EXTINF:-1,UK: Discovery Investigation
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2131.ts
-#EXTINF:-1,UK: DEVA
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2230.ts
-#EXTINF:-1,UK: Dave
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2132.ts
-#EXTINF:-1,UK: CTH STADIUM X
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2139.ts
-#EXTINF:-1,UK: CTH STADIUM 6 HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2140.ts
-#EXTINF:-1,UK: CTH STADIUM 5 HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2145.ts
-#EXTINF:-1,UK: CTH STADIUM 4 HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2146.ts
-#EXTINF:-1,UK: CTH STADIUM 3 HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2147.ts
-#EXTINF:-1,UK: CTH STADIUM 2 HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2148.ts
-#EXTINF:-1,UK: CTH STADIUM 1 HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2149.ts
-#EXTINF:-1,SP: MIO Stadium 108 HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2874.ts
-#EXTINF:-1,SP: MIO Stadium 107 HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2873.ts
-#EXTINF:-1,SP: MIO Stadium 106 HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2872.ts
-#EXTINF:-1,SP: MIO Stadium 105 HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2871.ts
-#EXTINF:-1,SP: MIO Stadium 104 HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2870.ts
-#EXTINF:-1,SP: MIO Stadium 103 HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2869.ts
-#EXTINF:-1,SP: MIO Stadium 102 HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2868.ts
-#EXTINF:-1,SP: MIO Stadium 101 HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2867.ts
-#EXTINF:-1,UK: Comedy Central
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2150.ts
-#EXTINF:-1,UK: COLORS
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2196.ts
-#EXTINF:-1,UK: CHELSEA TV
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2221.ts
-#EXTINF:-1,UK: Chelsea FC
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2133.ts
-#EXTINF:-1,UK: CHANNEL FOUR
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2231.ts
-#EXTINF:-1,UK: CHANNEL FIVE
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2232.ts
-#EXTINF:-1,UK: CBS Reality
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2197.ts
-#EXTINF:-1,UK: CBS Drama
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2198.ts
-#EXTINF:-1,UK: CBS Action
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2199.ts
-#EXTINF:-1,UK: BT Sport ESPN
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2201.ts
-#EXTINF:-1,UK: BT Sport Extra
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2151.ts
-#EXTINF:-1,UK: BT SPORT EUROPE HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2200.ts
-#EXTINF:-1,UK: BT Sport 2 HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2152.ts
-#EXTINF:-1,UK: BT SPORT 1 HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2222.ts
-#EXTINF:-1,UK: Box Nation  HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2202.ts
-#EXTINF:-1,UK: BBC Entertainment
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2203.ts
-#EXTINF:-1,UK: BBC 4
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2233.ts
-#EXTINF:-1,UK: BBC 3 HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2134.ts
-#EXTINF:-1,UK: BBC 3
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2234.ts
-#EXTINF:-1,UK: BBC 2 HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2204.ts
-#EXTINF:-1,UK: BBC 1 HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2205.ts
-#EXTINF:-1,UK: B4U MOVIES
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2206.ts
-#EXTINF:-1,UK: At The Races UK
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2135.ts
-#EXTINF:-1,UK: Alibi
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2136.ts
-#EXTINF:-1,UK: 5USA
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2207.ts
-#EXTINF:-1,UK: 4E
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2235.ts
-#EXTINF:-1,UK:  Box Nation
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/2138.ts
-#EXTINF:-1,UK: Sony Movies
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/881.ts
-#EXTINF:-1,UK: Sky Movies Show Case
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/882.ts
-#EXTINF:-1,UK: Sky Alantic
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/883.ts
-#EXTINF:-1,UK: Setanta Sports
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/806.ts
-#EXTINF:-1,UK: Nickelodeon
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/885.ts
-#EXTINF:-1,UK: Nick Junior
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/886.ts
-#EXTINF:-1,UK: National Geography HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/887.ts
-#EXTINF:-1,UK: National Geo WILD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/888.ts
-#EXTINF:-1,UK: LONDON LIFE
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/889.ts
-#EXTINF:-1,UK: disney Channel UK
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/890.ts
-#EXTINF:-1,UK: CHANNEL 5
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/891.ts
-#EXTINF:-1,UK: CHANNEL 4
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/892.ts
-#EXTINF:-1,UK: Cbeebies
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/894.ts
-#EXTINF:-1,uk: sky sports news hd
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/895.ts
-#EXTINF:-1,UK: Cartoon Network
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/896.ts
-#EXTINF:-1,UK: BBC Two
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/897.ts
-#EXTINF:-1,UK: BBC One
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/898.ts
-#EXTINF:-1,UK: Animal Planet
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/899.ts
-#EXTINF:-1,UK: BT Sport 1
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/595.ts
-#EXTINF:-1,UK: BT Sport 2
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/594.ts
-#EXTINF:-1,UK: Sky Sport F1
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/607.ts
-#EXTINF:-1,UK: Sky Sport 1
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/602.ts
-#EXTINF:-1,UK: Sky Sport 2
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/603.ts
-#EXTINF:-1,UK: Sky Sport 3
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/604.ts
-#EXTINF:-1,UK: Sky Sport 4
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/605.ts
-#EXTINF:-1,UK: Sky Sports 5
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/606.ts
-#EXTINF:-1,UK-TLC-IRELAND
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/407.ts
-#EXTINF:-1,UK-Sky-movies-Thriller
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/408.ts
-#EXTINF:-1,UK-Sky-Movies-Showcase
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/409.ts
-#EXTINF:-1,UK-Sky-Movies-Select
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/410.ts
-#EXTINF:-1,UK-Sky-Movies-Family
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/411.ts
-#EXTINF:-1,UK-Sky-Movies-Disney.
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/412.ts
-#EXTINF:-1,UK-Sky-Movies-Comedy
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/415.ts
-#EXTINF:-1,UK-Sky-Movies-Action
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/417.ts
-#EXTINF:-1,UK-Sky-Movies -Premiere
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/418.ts
-#EXTINF:-1,UK-Sky-Living
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/419.ts
-#EXTINF:-1,UK-Real-Lives
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/400.ts
-#EXTINF:-1,UK-QUEST
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/401.ts
-#EXTINF:-1,UK-Nicktoons-Ireland
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/402.ts
-#EXTINF:-1,UK-Nick-Jr-Too
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/403.ts
-#EXTINF:-1,UK-Nick-Jr 1
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/404.ts
-#EXTINF:-1,UK-National-Geographic
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/405.ts
-#EXTINF:-1,UK-Nat-Geo-Wild
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/406.ts
-#EXTINF:-1,UK-Discovery-Home-&Health
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/420.ts
-#EXTINF:-1,UK-Discovery-History
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/421.ts
-#EXTINF:-1,UK-Discovery
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/422.ts
-#EXTINF:-1,UK: ITV 1 HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/384.ts
-#EXTINF:-1,UK: ITV 2 HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/383.ts
-#EXTINF:-1,UK: ITV 3 HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/382.ts
-#EXTINF:-1,UK: ITV 4 HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/381.ts
-#EXTINF:-1,UK: BBC News
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/385.ts
-#EXTINF:-1,UK: BBC 4 HD
-http://5.226.137.171:7860/live/4DIjQZWXTB/SGnp7wqLMP/386.ts
+http://skyeg.dyndns.org:8000/live/ess19/ess19/1598.ts
