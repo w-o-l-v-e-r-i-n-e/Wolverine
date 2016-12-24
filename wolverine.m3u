@@ -2,13 +2,13 @@
 #EXTINF:-1,SKY SPORTS 1 HD
 plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4776.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 1 HD
 #EXTINF:-1,SKY SPORTS 2 HD
-http://service1.astrovida.tv:8000/live/testapp/testapp/4775.ts
+plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4775.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 2 HD
 #EXTINF:-1,SKY SPORTS 3 HD
-plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4774.ts&amp;streamtype=SIMPLE
+plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4774.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 3 HD
 #EXTINF:-1,SKY SPORTS 4 HD
-http://service1.astrovida.tv:8000/live/testapp/testapp/4773.ts
-#EXTINF:-1,SKY SPORTS 5 HD
+plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4773.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 4 HD
+#EXTINF:-1,SKY SPORTS 5 HD (COMING SOON)
 #EXTINF:-1,SKY SPORTS F1 HD
-http://service1.astrovida.tv:8000/live/testapp/testapp/4772.ts
+plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4772.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS F1 HD
 #EXTINF:-1,SKY SPORTS NEWS HD
-http://service1.astrovida.tv:8000/live/testapp/testapp/4771.ts
+plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4771.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS NEWS HD
