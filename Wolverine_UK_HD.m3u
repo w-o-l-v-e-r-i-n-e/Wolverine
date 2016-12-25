@@ -53,7 +53,6 @@ plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/test
 
 #EXTINF:-1,SKY DISNEY HD
 plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4785.ts&amp;streamtype=TSDOWNLOADER;name=SKY DISNEY HD
-
 #EXTINF:-1,[COLOR yellow][I][B]----------------------------------------[/B][/I][/COLOR]
 
 #EXTINF:-1,[COLOR yellow][I][B]-- UK KIDS HD CHANNELS --[/B][/I][/COLOR]
