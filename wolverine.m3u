@@ -13,3 +13,21 @@ http://163.172.217.53:8000/live/5grandiptv915/67863345/698.ts
 plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4772.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS F1 HD
 #EXTINF:-1,SKY SPORTS NEWS HD
 plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4771.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS NEWS HD
+#EXTINF:-1,SKY PREMIERE HD (COMING SOON)
+#EXTINF:-1,SKY GREATS HD
+plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4782.ts&amp;streamtype=TSDOWNLOADER;name=SKY GREATS HD
+#EXTINF:-1,SKY FAMILY HD
+plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4783.ts&amp;streamtype=TSDOWNLOADER;name=SKY FAMILY HD
+#EXTINF:-1,SKY ACTION HD (COMING SOON)
+#EXTINF:-1,SKY COMEDY HD (COMING SOON)
+#EXTINF:-1,SKY THRILLER HD
+plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4778.ts&amp;streamtype=TSDOWNLOADER;name=SKY THRILLER HD
+#EXTINF:-1,SKY SELECT HD (COMING SOON)
+#EXTINF:-1,SKY SHOWCASE (HITS) HD
+plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4779.ts&amp;streamtype=TSDOWNLOADER;name=SKY HITS HD
+#EXTINF:-1,SKY SCI-FI (STAR WARS) HD
+plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4781.ts&amp;streamtype=TSDOWNLOADER;name=SKY STAR WARS HD
+#EXTINF:-1,SKY DRAMA (CHRISTMAS) HD
+plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4784.ts&amp;streamtype=TSDOWNLOADER;name=SKY CHRISTMAS HD
+#EXTINF:-1,SKY TCM HD (COMING SOON)
+#EXTINF:-1,FILM4 HD (COMING SOON)
