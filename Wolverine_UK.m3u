@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1,[COLOR yellow][I][B]----------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,[COLOR yellow][I][B]---------------------------------------[/B][/I][/COLOR]
 
 #EXTINF:-1,[COLOR yellow][I][B]-- UK SPORTS CHANNELS --[/B][/I][/COLOR]
 
-#EXTINF:-1,[COLOR yellow][I][B]----------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,[COLOR yellow][I][B]---------------------------------------[/B][/I][/COLOR]
 
 #EXTINF:-1,SKY SPORTS 1 HD
 plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4776.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 1 HD
@@ -19,11 +19,11 @@ http://163.172.217.53:8000/live/5grandiptv915/67863345/698.ts
 plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4772.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS F1 HD
 #EXTINF:-1,SKY SPORTS NEWS HD
 plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4771.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS NEWS HD
-#EXTINF:-1,[COLOR yellow][I][B]--------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,[COLOR yellow][I][B]-------------------------------------[/B][/I][/COLOR]
 
 #EXTINF:-1,[COLOR yellow][I][B]-- UK MOVIE CHANNELS --[/B][/I][/COLOR]
 
-#EXTINF:-1,[COLOR yellow][I][B]--------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,[COLOR yellow][I][B]-------------------------------------[/B][/I][/COLOR]
 
 #EXTINF:-1,[COLOR red][I][B]SKY PREMIERE HD (COMING SOON)[/B][/I][/COLOR]
 
@@ -59,9 +59,9 @@ plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/test
 
 #EXTINF:-1,UK GOLD
 plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1521.ts&amp;streamtype=TSDOWNLOADER;name=UK GOLD
-#EXTINF:-1,[COLOR yellow][I][B]-----------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,[COLOR yellow][I][B]----------------------------------[/B][/I][/COLOR]
 
 #EXTINF:-1,[COLOR yellow][I][B]-- UK KIDS CHANNELS --[/B][/I][/COLOR]
 
-#EXTINF:-1,[COLOR yellow][I][B]-----------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,[COLOR yellow][I][B]----------------------------------[/B][/I][/COLOR]
 
