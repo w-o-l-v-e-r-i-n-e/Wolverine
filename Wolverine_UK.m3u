@@ -6,19 +6,19 @@
 #EXTINF:-1,[COLOR yellow][I][B]---------------------------------------[/B][/I][/COLOR]
 
 #EXTINF:-1,SKY SPORTS 1 HD
-plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4776.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 1 HD
 #EXTINF:-1,SKY SPORTS 2 HD
-plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4775.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 2 HD
+plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/695.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 2 HD
 #EXTINF:-1,SKY SPORTS 3 (DARTS) HD
 plugin://plugin.video.f4mTester/?url=http://smartvespana.ddns.net:8080/live/onzalez6/6/16894.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS DARTS HD
 #EXTINF:-1,SKY SPORTS 4 HD
 plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4773.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 4 HD
 #EXTINF:-1,SKY SPORTS 5 HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/698.ts
+plugin://plugin.video.f4mTester/?url=hhttp://163.172.217.53:8000/live/5grandiptv915/67863345/698.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 5 HD
 #EXTINF:-1,SKY SPORTS F1 HD
-plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4772.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS F1 HD
+plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/700.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS F1 HD
 #EXTINF:-1,SKY SPORTS NEWS HD
-plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4771.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS NEWS HD
+plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/701.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS NEWS HD
 #EXTINF:-1,[COLOR yellow][I][B]-------------------------------------[/B][/I][/COLOR]
 
 #EXTINF:-1,[COLOR yellow][I][B]-- UK MOVIE CHANNELS --[/B][/I][/COLOR]
