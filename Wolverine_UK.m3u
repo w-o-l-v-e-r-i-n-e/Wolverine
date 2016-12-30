@@ -2,29 +2,33 @@
 #EXTINF:-1,[COLOR yellow][I][B]-- UK SPORTS CHANNELS --[/B][/I][/COLOR]
 
 #EXTINF:-1,SKY SPORTS 1
-plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4773.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 1
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/2B0USja0Bb/YH2uDhymzV/1093.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 1
 ##EXTINF:-1,SKY SPORTS 1 HD
 plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4776.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 1 HD
-#EXTINF:-1,SKY SPORTS 2
+##EXTINF:-1,SKY SPORTS 2
 plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4773.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 2
-##EXTINF:-1,SKY SPORTS 2 HD
-plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4775.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 2 HD
+#EXTINF:-1,SKY SPORTS 2 HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/2B0USja0Bb/YH2uDhymzV/1092.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 2 HD
 #EXTINF:-1,SKY SPORTS 3 (DARTS)
 plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/2B0USja0Bb/YH2uDhymzV/1091.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS DARTS
 ##EXTINF:-1,SKY SPORTS 3 (DARTS) HD
 plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4774.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS DARTS HD
-#EXTINF:-1,SKY SPORTS 4
+##EXTINF:-1,SKY SPORTS 4
 plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4773.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 4
-##EXTINF:-1,SKY SPORTS 4 HD
-plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4773.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 4 HD
+#EXTINF:-1,SKY SPORTS 4 HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/2B0USja0Bb/YH2uDhymzV/1090.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 4 HD
 #EXTINF:-1,SKY SPORTS 5
-plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4773.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 5
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/2B0USja0Bb/YH2uDhymzV/1089.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 5
 ##EXTINF:-1,SKY SPORTS 5 HD
 http://163.172.217.53:8000/live/5grandiptv915/67863345/698.ts
-##EXTINF:-1,SKY SPORTS F1 HD
-plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4772.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS F1 HD
+##EXTINF:-1,SKY SPORTS F1
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/2B0USja0Bb/YH2uDhymzV/1088.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS F1
+#EXTINF:-1,SKY SPORTS F1 HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/2B0USja0Bb/YH2uDhymzV/1088.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS F1 HD
+#EXTINF:-1,SKY SPORTS NEWS
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/2B0USja0Bb/YH2uDhymzV/1087.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS NEWS
 ##EXTINF:-1,SKY SPORTS NEWS HD
-plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4771.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS NEWS HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/2B0USja0Bb/YH2uDhymzV/1087.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS NEWS HD
 
 #EXTINF:-1,[COLOR yellow][I][B]-- UK MOVIE CHANNELS --[/B][/I][/COLOR]
 
