@@ -72,7 +72,7 @@ plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/test
 #EXTINF:-1,[COLOR yellow][I][B]-- UK ENTERTAINMENT CHANNELS --[/B][/I][/COLOR]
 
 #EXTINF:-1,UK GOLD
-plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1521.ts&amp;streamtype=TSDOWNLOADER;name=UK GOLD
+plugin://plugin.video.f4mTester/?url=http://xxultraxx.com:8000/live/12345/12345/2582.ts&amp;streamtype=TSDOWNLOADER;name=UK GOLD
 #EXTINF:-1,[COLOR yellow][I][B]-- UK KIDS CHANNELS --[/B][/I][/COLOR]
 
 #EXTINF:-1,DISNEY CHANNEL
