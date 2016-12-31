@@ -32,31 +32,25 @@ plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/2B0USja0Bb/
 
 #EXTINF:-1,[COLOR yellow][I][B]-- UK MOVIE CHANNELS --[/B][/I][/COLOR]
 
-#EXTINF:-1,[COLOR red][I][B]SKY PREMIERE HD (COMING SOON)[/B][/I][/COLOR]
-
-#EXTINF:-1,SKY GREATS HD
+##EXTINF:-1,SKY PREMIERE HD
+##EXTINF:-1,SKY GREATS HD
 plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4782.ts&amp;streamtype=TSDOWNLOADER;name=SKY GREATS HD
-#EXTINF:-1,SKY FAMILY HD
+##EXTINF:-1,SKY FAMILY HD
 plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4783.ts&amp;streamtype=TSDOWNLOADER;name=SKY FAMILY HD
-#EXTINF:-1,[COLOR red][I][B]SKY ACTION HD (COMING SOON)[/B][/I][/COLOR]
-
-#EXTINF:-1,[COLOR red][I][B]SKY COMEDY HD (COMING SOON)[/B][/I][/COLOR]
-
-#EXTINF:-1,SKY THRILLER HD
+##EXTINF:-1,SKY ACTION HD
+##EXTINF:-1,SKY COMEDY HD
+##EXTINF:-1,SKY THRILLER HD
 plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4778.ts&amp;streamtype=TSDOWNLOADER;name=SKY THRILLER HD
-#EXTINF:-1,[COLOR red][I][B]SKY SELECT HD (COMING SOON)[/B][/I][/COLOR]
-
-#EXTINF:-1,SKY SHOWCASE (HITS) HD
+##EXTINF:-1,SKY SELECT HD
+##EXTINF:-1,SKY SHOWCASE (HITS) HD
 plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4779.ts&amp;streamtype=TSDOWNLOADER;name=SKY HITS HD
-#EXTINF:-1,SKY SCI-FI (STAR WARS) HD
+##EXTINF:-1,SKY SCI-FI (STAR WARS) HD
 plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4781.ts&amp;streamtype=TSDOWNLOADER;name=SKY STAR WARS HD
-#EXTINF:-1,SKY DRAMA (CHRISTMAS) HD
+##EXTINF:-1,SKY DRAMA (CHRISTMAS) HD
 plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4784.ts&amp;streamtype=TSDOWNLOADER;name=SKY CHRISTMAS HD
-#EXTINF:-1,[COLOR red][I][B]SKY TCM HD (COMING SOON)[/B][/I][/COLOR]
-
-#EXTINF:-1,[COLOR red][I][B]FILM4 HD (COMING SOON)[/B][/I][/COLOR]
-
-#EXTINF:-1,SKY DISNEY HD
+##EXTINF:-1,SKY TCM HD
+##EXTINF:-1,FILM4 HD
+##EXTINF:-1,SKY DISNEY HD
 plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4785.ts&amp;streamtype=TSDOWNLOADER;name=SKY DISNEY HD
 #EXTINF:-1,[COLOR yellow][I][B]-- UK ENTERTAINMENT CHANNELS --[/B][/I][/COLOR]
 
