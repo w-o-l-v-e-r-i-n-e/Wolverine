@@ -85,3 +85,5 @@ plugin://plugin.video.f4mTester/?url=http://xxultraxx.com:8000/live/12345/12345/
 plugin://plugin.video.f4mTester/?url=http://xxultraxx.com:8000/live/12345/12345/955.ts&amp;streamtype=TSDOWNLOADER;name=NICKTOONS
 #EXTINF:-1,KIX
 plugin://plugin.video.f4mTester/?url=http://xxultraxx.com:8000/live/12345/12345/4563.ts&amp;streamtype=TSDOWNLOADER;name=KIX
+#EXTINF:-1,Boomerang
+rtmp://newiphelikop.no-ip.org:44935/p6p/0000boomer.stream?u=L0254-E_AlexiaAXm4.26&p=AXASm-0254L live=1 timeout=10 #Boomerang
