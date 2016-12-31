@@ -64,5 +64,15 @@ plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/test
 plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1521.ts&amp;streamtype=TSDOWNLOADER;name=UK GOLD
 #EXTINF:-1,[COLOR yellow][I][B]-- UK KIDS CHANNELS --[/B][/I][/COLOR]
 
-
-
+#EXTINF:-1,DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?url=http://xxultraxx.com:8000/live/12345/12345/2603.ts&amp;streamtype=TSDOWNLOADER;name=DISNEY CHANNEL
+#EXTINF:-1,DISNEY XD
+plugin://plugin.video.f4mTester/?url=http://xxultraxx.com:8000/live/12345/12345/2623.ts&amp;streamtype=TSDOWNLOADER;name=DISNEY XD
+#EXTINF:-1,BOOMERANG HD
+plugin://plugin.video.f4mTester/?url=http://xxultraxx.com:8000/live/12345/12345/2629.ts&amp;streamtype=TSDOWNLOADER;name=BOOMERANG HD
+#EXTINF:-1,NICKELODEON
+plugin://plugin.video.f4mTester/?url=http://xxultraxx.com:8000/live/12345/12345/956.ts&amp;streamtype=TSDOWNLOADER;name=NICKELODEON
+#EXTINF:-1,NICKTOONS
+plugin://plugin.video.f4mTester/?url=http://xxultraxx.com:8000/live/12345/12345/955.ts&amp;streamtype=TSDOWNLOADER;name=NICKTOONS
+#EXTINF:-1,KIX
+plugin://plugin.video.f4mTester/?url=http://xxultraxx.com:8000/live/12345/12345/4563.ts&amp;streamtype=TSDOWNLOADER;name=KIX
