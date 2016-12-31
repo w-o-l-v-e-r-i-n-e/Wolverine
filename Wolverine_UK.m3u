@@ -29,7 +29,22 @@ plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/2B0USja0Bb/
 plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/2B0USja0Bb/YH2uDhymzV/1087.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS NEWS
 ##EXTINF:-1,SKY SPORTS NEWS HD
 plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/2B0USja0Bb/YH2uDhymzV/1087.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS NEWS HD
-
+#EXTINF:-1,BT SPORT 1
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/2B0USja0Bb/YH2uDhymzV/1079.ts&amp;streamtype=TSDOWNLOADER;name=BT SPORT 1
+#EXTINF:-1,BT SPORT 2
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/2B0USja0Bb/YH2uDhymzV/1078.ts&amp;streamtype=TSDOWNLOADER;name=BT SPORT 2
+#EXTINF:-1,BT SPORT 3 (EUROPE)
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/2B0USja0Bb/YH2uDhymzV/1085.ts&amp;streamtype=TSDOWNLOADER;name=BT SPORT 3 (EUROPE)
+#EXTINF:-1,BT SPORT ESPN HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/2B0USja0Bb/YH2uDhymzV/1077.ts&amp;streamtype=TSDOWNLOADER;name=BT SPORT ESPN HD
+#EXTINF:-1,EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/2B0USja0Bb/YH2uDhymzV/1095.ts&amp;streamtype=TSDOWNLOADER;name=EUROSPORT 1 HD
+#EXTINF:-1,EUROSPORT 2
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/2B0USja0Bb/YH2uDhymzV/1094.ts&amp;streamtype=TSDOWNLOADER;name=EUROSPORT 2
+#EXTINF:-1,EI SPORT 1 (SETANTA)
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/2B0USja0Bb/YH2uDhymzV/1076.ts&amp;streamtype=TSDOWNLOADER;name=EI SPORT 1 (SETANTA)
+#EXTINF:-1,PREMIER SPORT
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/2B0USja0Bb/YH2uDhymzV/1074.ts&amp;streamtype=TSDOWNLOADER;name=PREMIER SPORT
 #EXTINF:-1,[COLOR yellow][I][B]-- UK MOVIE CHANNELS --[/B][/I][/COLOR]
 
 ##EXTINF:-1,SKY PREMIERE HD
