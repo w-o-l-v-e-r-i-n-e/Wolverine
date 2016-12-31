@@ -10,7 +10,7 @@ plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/test
 #EXTINF:-1,SKY SPORTS 2 HD
 plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/2B0USja0Bb/YH2uDhymzV/1092.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 2 HD
 #EXTINF:-1,SKY SPORTS 3 (DARTS)
-plugin://plugin.video.f4mTester/?url=http://smartvespana.ddns.net:8080/live/onzalez6/6/16894.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS DARTS
+plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/687.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS DARTS
 ##EXTINF:-1,SKY SPORTS 3 (DARTS) HD
 plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4774.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS DARTS HD
 ##EXTINF:-1,SKY SPORTS 4
