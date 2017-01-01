@@ -1,0 +1,145 @@
+#EXTM3U
+#EXTINF:-1,[COLOR yellow][I][B]-- UK SPORTS CHANNELS --[/B][/I][/COLOR]
+
+##EXTINF:-1,SKY SPORTS 1
+plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 1
+#EXTINF:-1,SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/725.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 1 HD
+##EXTINF:-1,SKY SPORTS 2
+plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/1339.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 2
+#EXTINF:-1,SKY SPORTS 2 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/726.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 2 HD
+#EXTINF:-1,SKY SPORTS 3 (DARTS)
+plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/687.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS DARTS
+#EXTINF:-1,SKY SPORTS 3 (DARTS) HD
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/727.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS DARTS HD
+##EXTINF:-1,SKY SPORTS 4
+plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/686.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 4
+#EXTINF:-1,SKY SPORTS 4 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/728.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 4 HD
+##EXTINF:-1,SKY SPORTS 5
+plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/699.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 5
+#EXTINF:-1,SKY SPORTS 5 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/729.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 5 HD
+#EXTINF:-1,SKY SPORTS MIX
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2326.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS MIX
+#EXTINF:-1,SKY SPORTS F1
+plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/700.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS F1
+##EXTINF:-1,SKY SPORTS F1 HD
+plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/700.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS F1 HD
+#EXTINF:-1,SKY SPORTS NEWS
+plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/701.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS NEWS
+##EXTINF:-1,SKY SPORTS NEWS HD
+plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/701.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS NEWS HD
+#EXTINF:-1,BT SPORT 1
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/733.ts&amp;streamtype=TSDOWNLOADER;name=BT SPORT 1
+#EXTINF:-1,BT SPORT 2
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/732.ts&amp;streamtype=TSDOWNLOADER;name=BT SPORT 2
+##EXTINF:-1,BT SPORT 3 (EUROPE)
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/2B0USja0Bb/YH2uDhymzV/1085.ts&amp;streamtype=TSDOWNLOADER;name=BT SPORT 3 (EUROPE)
+#EXTINF:-1,BT SPORT ESPN HD
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/731.ts&amp;streamtype=TSDOWNLOADER;name=BT SPORT ESPN HD
+##EXTINF:-1,EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/2B0USja0Bb/YH2uDhymzV/1095.ts&amp;streamtype=TSDOWNLOADER;name=EUROSPORT 1 HD
+##EXTINF:-1,EUROSPORT 2
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/2B0USja0Bb/YH2uDhymzV/1094.ts&amp;streamtype=TSDOWNLOADER;name=EUROSPORT 2
+##EXTINF:-1,EI SPORT 1 (SETANTA)
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/2B0USja0Bb/YH2uDhymzV/1076.ts&amp;streamtype=TSDOWNLOADER;name=EI SPORT 1 (SETANTA)
+##EXTINF:-1,PREMIER SPORT
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/2B0USja0Bb/YH2uDhymzV/1074.ts&amp;streamtype=TSDOWNLOADER;name=PREMIER SPORT
+#EXTINF:-1,[COLOR yellow][I][B]-- UK MOVIE CHANNELS --[/B][/I][/COLOR]
+
+##EXTINF:-1,SKY PREMIERE HD
+##EXTINF:-1,SKY GREATS HD
+plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4782.ts&amp;streamtype=TSDOWNLOADER;name=SKY GREATS HD
+##EXTINF:-1,SKY FAMILY HD
+plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4783.ts&amp;streamtype=TSDOWNLOADER;name=SKY FAMILY HD
+##EXTINF:-1,SKY ACTION HD
+##EXTINF:-1,SKY COMEDY HD
+##EXTINF:-1,SKY THRILLER HD
+plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4778.ts&amp;streamtype=TSDOWNLOADER;name=SKY THRILLER HD
+##EXTINF:-1,SKY SELECT HD
+##EXTINF:-1,SKY SHOWCASE (HITS) HD
+plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4779.ts&amp;streamtype=TSDOWNLOADER;name=SKY HITS HD
+##EXTINF:-1,SKY SCI-FI (STAR WARS) HD
+plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4781.ts&amp;streamtype=TSDOWNLOADER;name=SKY STAR WARS HD
+##EXTINF:-1,SKY DRAMA (CHRISTMAS) HD
+plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4784.ts&amp;streamtype=TSDOWNLOADER;name=SKY CHRISTMAS HD
+##EXTINF:-1,SKY TCM HD
+##EXTINF:-1,FILM4 HD
+##EXTINF:-1,SKY DISNEY HD
+plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4785.ts&amp;streamtype=TSDOWNLOADER;name=SKY DISNEY HD
+#EXTINF:-1,[COLOR yellow][I][B]-- UK ENTERTAINMENT CHANNELS --[/B][/I][/COLOR]
+
+#EXTINF:-1,UK GOLD
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1773.ts&amp;streamtype=TSDOWNLOADER;name=UK GOLD
+#EXTINF:-1,UK GOLD +1
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2261.ts&amp;streamtype=TSDOWNLOADER;name=UK GOLD +1
+#EXTINF:-1,DAVE
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1497.ts&amp;streamtype=TSDOWNLOADER;name=DAVE
+#EXTINF:-1,DAVE JA VU
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2245.ts&amp;streamtype=TSDOWNLOADER;name=DAVE JA VU
+#EXTINF:-1,CHALLENGE
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2223.ts&amp;streamtype=TSDOWNLOADER;name=CHALLENGE
+#EXTINF:-1,CHALLENGE +1
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2224.ts&amp;streamtype=TSDOWNLOADER;name=CHALLENGE +1
+#EXTINF:-1,SYFY
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1764.ts&amp;streamtype=TSDOWNLOADER;name=SYFY
+#EXTINF:-1,SYFY +1
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2333.ts&amp;streamtype=TSDOWNLOADER;name=SYFY +1
+#EXTINF:-1,ITV ENCORE
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2017.ts&amp;streamtype=TSDOWNLOADER;name=ITV ENCORE
+#EXTINF:-1,ITV ENCORE +1
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2273.ts&amp;streamtype=TSDOWNLOADER;name=ITV ENCORE +1
+#EXTINF:-1,E4
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1816.ts&amp;streamtype=TSDOWNLOADER;name=E4
+#EXTINF:-1,E4 +1
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2252.ts&amp;streamtype=TSDOWNLOADER;name=E4 +1
+#EXTINF:-1,MORE4
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/778.ts&amp;streamtype=TSDOWNLOADER;name=MORE4
+#EXTINF:-1,MORE4 +1
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2292.ts&amp;streamtype=TSDOWNLOADER;name=MORE4 +1
+#EXTINF:-1,SPIKE
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2009.ts&amp;streamtype=TSDOWNLOADER;name=SPIKE
+##EXTINF:-1,W
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1773.ts&amp;streamtype=TSDOWNLOADER;name=W
+#EXTINF:-1,W +1
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2348.ts&amp;streamtype=TSDOWNLOADER;name=W +1
+#EXTINF:-1,[COLOR yellow][I][B]-- UK KIDS CHANNELS --[/B][/I][/COLOR]
+
+#EXTINF:-1,DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2249.ts&amp;streamtype=TSDOWNLOADER;name=DISNEY CHANNEL
+#EXTINF:-1,DISNEY CHANNEL +1
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2250.ts&amp;streamtype=TSDOWNLOADER;name=DISNEY CHANNEL +1
+#EXTINF:-1,NICKELODEON
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1828.ts&amp;streamtype=TSDOWNLOADER;name=NICKELODEON
+#EXTINF:-1,NICKELODEON +1
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2306.ts&amp;streamtype=TSDOWNLOADER;name=NICKELODEON +1
+#EXTINF:-1,BOOMERANG HD
+plugin://plugin.video.f4mTester/?url=http://xxultraxx.com:8000/live/12345/12345/2629.ts&amp;streamtype=TSDOWNLOADER;name=BOOMERANG HD
+#EXTINF:-1,BOOMERANG
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1826.ts&amp;streamtype=TSDOWNLOADER;name=BOOMERANG
+#EXTINF:-1,CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1953.ts&amp;streamtype=TSDOWNLOADER;name=CARTOON NETWORK HD
+#EXTINF:-1,CARTOON NETWORK
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1825.ts&amp;streamtype=TSDOWNLOADER;name=CARTOON NETWORK
+#EXTINF:-1,NICK JR
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2013.ts&amp;streamtype=TSDOWNLOADER;name=NICK JR
+#EXTINF:-1,NICK JR +1
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2304.ts&amp;streamtype=TSDOWNLOADER;name=NICK JR +1
+#EXTINF:-1,NICK JR TOO
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2305.ts&amp;streamtype=TSDOWNLOADER;name=NICK JR TOO
+#EXTINF:-1,DISNEY XD
+plugin://plugin.video.f4mTester/?url=http://xxultraxx.com:8000/live/12345/12345/2623.ts&amp;streamtype=TSDOWNLOADER;name=DISNEY XD
+#EXTINF:-1,NICKTOONS
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1827.ts&amp;streamtype=TSDOWNLOADER;name=NICKTOONS
+#EXTINF:-1,KIX
+plugin://plugin.video.f4mTester/?url=http://xxultraxx.com:8000/live/12345/12345/4563.ts&amp;streamtype=TSDOWNLOADER;name=KIX
+#EXTINF:-1,TINY POP
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1763.ts&amp;streamtype=TSDOWNLOADER;name=TINY POP
+#EXTINF:-1,CBEEBIES
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2031.ts&amp;streamtype=TSDOWNLOADER;name=CBEEBIES
+#EXTINF:-1,CITV
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2237.ts&amp;streamtype=TSDOWNLOADER;name=CITV
+#EXTINF:-1,BABY TV
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1829.ts&amp;streamtype=TSDOWNLOADER;name=BABY TV
