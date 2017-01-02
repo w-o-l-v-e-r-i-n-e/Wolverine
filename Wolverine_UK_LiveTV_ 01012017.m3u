@@ -105,6 +105,60 @@ plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2009.t
 plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1773.ts&amp;streamtype=TSDOWNLOADER;name=W
 #EXTINF:-1,W +1
 plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2348.ts&amp;streamtype=TSDOWNLOADER;name=W +1
+#EXTINF:-1,BBC ONE
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/755.ts&amp;streamtype=TSDOWNLOADER;name=BBC ONE
+#EXTINF:-1,BBC ONE HD
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1513.ts&amp;streamtype=TSDOWNLOADER;name=BBC ONE HD
+#EXTINF:-1,BBC TWO
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/756.ts&amp;streamtype=TSDOWNLOADER;name=BBC TWO
+#EXTINF:-1,BBC TWO HD
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1478.ts&amp;streamtype=TSDOWNLOADER;name=BBC TWO HD
+#EXTINF:-1,BBC THREE
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2035.ts&amp;streamtype=TSDOWNLOADER;name=BBC THREE
+#EXTINF:-1,BBC FOUR
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/758.ts&amp;streamtype=TSDOWNLOADER;name=BBC FOUR
+EXTINF:-1,ITV +1
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/759.ts&amp;streamtype=TSDOWNLOADER;name=ITV +1
+#EXTINF:-1,ITV HD
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2275.ts&amp;streamtype=TSDOWNLOADER;name=ITV HD
+#EXTINF:-1,ITV2
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/760.ts&amp;streamtype=TSDOWNLOADER;name=ITV2
+#EXTINF:-1,ITV2 +1
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2276.ts&amp;streamtype=TSDOWNLOADER;name=ITV2 +1
+#EXTINF:-1,ITV2 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2277.ts&amp;streamtype=TSDOWNLOADER;name=ITV2 HD
+#EXTINF:-1,ITV3
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/761.ts&amp;streamtype=TSDOWNLOADER;name=ITV3
+#EXTINF:-1,ITV3 +1
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2271.ts&amp;streamtype=TSDOWNLOADER;name=ITV3 +1
+#EXTINF:-1,ITV3 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2272.ts&amp;streamtype=TSDOWNLOADER;name=ITV3 HD
+#EXTINF:-1,ITV4
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/762.ts&amp;streamtype=TSDOWNLOADER;name=ITV4
+#EXTINF:-1,ITV4 +1
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2278.ts&amp;streamtype=TSDOWNLOADER;name=ITV4 +1
+#EXTINF:-1,ITV4 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2279.ts&amp;streamtype=TSDOWNLOADER;name=ITV4 HD
+#EXTINF:-1,CHANNEL4
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/763.ts&amp;streamtype=TSDOWNLOADER;name=CHANNEL4
+#EXTINF:-1,CHANNEL4 +1
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2225.ts&amp;streamtype=TSDOWNLOADER;name=CHANNEL4 +1
+#EXTINF:-1,CHANNEL4 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2226.ts&amp;streamtype=TSDOWNLOADER;name=CHANNEL4 HD
+#EXTINF:-1,CHANNEL5
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/764.ts&amp;streamtype=TSDOWNLOADER;name=CHANNEL5
+#EXTINF:-1,CHANNEL5 +1
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2228.ts&amp;streamtype=TSDOWNLOADER;name=CHANNEL5 +1
+#EXTINF:-1,CHANNEL5 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2229.ts&amp;streamtype=TSDOWNLOADER;name=CHANNEL5 HD
+#EXTINF:-1,FIVE
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2025.ts&amp;streamtype=TSDOWNLOADER;name=FIVE
+#EXTINF:-1,SKY1
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1823.ts&amp;streamtype=TSDOWNLOADER;name=SKY1
+#EXTINF:-1,SKY1 +1
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2327.ts&amp;streamtype=TSDOWNLOADER;name=SKY1 +1
+#EXTINF:-1,SKY2
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/765.ts&amp;streamtype=TSDOWNLOADER;name=SKY2
 #EXTINF:-1,[COLOR yellow][I][B]-- UK KIDS CHANNELS --[/B][/I][/COLOR]
 
 #EXTINF:-1,DISNEY CHANNEL
