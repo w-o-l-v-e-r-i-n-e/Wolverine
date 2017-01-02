@@ -12,7 +12,6 @@ plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/726.ts
 #EXTINF:-1,SKY SPORTS 3 (DARTS)
 plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/687.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS DARTS
 #EXTINF:-1,SKY SPORTS 3 (DARTS) HD
-#plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/727.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS DARTS HD
 plugin://plugin.video.f4mTester/?url=http://xxultraxx.com:8000/live/12345/12345/3964.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS DARTS HD
 ##EXTINF:-1,SKY SPORTS 4
 plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/686.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 4
