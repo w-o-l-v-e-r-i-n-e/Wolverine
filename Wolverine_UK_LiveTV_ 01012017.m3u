@@ -79,26 +79,41 @@ plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/723.ts
 plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2015.ts&amp;streamtype=TSDOWNLOADER;name=MOTORS TV
 #EXTINF:-1,[COLOR yellow][I][B]-- UK MOVIE CHANNELS --[/B][/I][/COLOR]
 
-##EXTINF:-1,SKY PREMIERE HD
-##EXTINF:-1,SKY GREATS HD
-plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4782.ts&amp;streamtype=TSDOWNLOADER;name=SKY GREATS HD
-##EXTINF:-1,SKY FAMILY HD
-plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4783.ts&amp;streamtype=TSDOWNLOADER;name=SKY FAMILY HD
-##EXTINF:-1,SKY ACTION HD
+#EXTINF:-1,SKY PREMIERE
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2015.ts&amp;streamtype=TSDOWNLOADER;name=SKY PREMIERE
+#EXTINF:-1,SKY GREATS
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1679.ts&amp;streamtype=TSDOWNLOADER;name=SKY GREATS
+#EXTINF:-1,SKY FAMILY
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1677.ts&amp;streamtype=TSDOWNLOADER;name=SKY FAMILY
+#EXTINF:-1,SKY FAMILY HD
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1678.ts&amp;streamtype=TSDOWNLOADER;name=SKY FAMILY HD
+#EXTINF:-1,SKY ACTION & ADVENTURE
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1669.ts&amp;streamtype=TSDOWNLOADER;name=SKY ACTION & ADVENTURE
+#EXTINF:-1,SKY ACTION & ADVENTURE HD
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1670.ts&amp;streamtype=TSDOWNLOADER;name=SKY ACTION & ADVENTURE HD
 ##EXTINF:-1,SKY COMEDY HD
-##EXTINF:-1,SKY THRILLER HD
-plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4778.ts&amp;streamtype=TSDOWNLOADER;name=SKY THRILLER HD
-##EXTINF:-1,SKY SELECT HD
-##EXTINF:-1,SKY SHOWCASE (HITS) HD
-plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4779.ts&amp;streamtype=TSDOWNLOADER;name=SKY HITS HD
-##EXTINF:-1,SKY SCI-FI (STAR WARS) HD
-plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4781.ts&amp;streamtype=TSDOWNLOADER;name=SKY STAR WARS HD
-##EXTINF:-1,SKY DRAMA (CHRISTMAS) HD
-plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4784.ts&amp;streamtype=TSDOWNLOADER;name=SKY CHRISTMAS HD
-##EXTINF:-1,SKY TCM HD
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1671.ts&amp;streamtype=TSDOWNLOADER;name=SKY COMEDY HD
+#EXTINF:-1,SKY THRILLER
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1673.ts&amp;streamtype=TSDOWNLOADER;name=SKY THRILLER
+#EXTINF:-1,SKY THRILLER HD
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1672.ts&amp;streamtype=TSDOWNLOADER;name=SKY THRILLER HD
+#EXTINF:-1,SKY SELECT
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2010.ts&amp;streamtype=TSDOWNLOADER;name=SKY SELECT
+#EXTINF:-1,SKY HITS
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1684.ts&amp;streamtype=TSDOWNLOADER;name=SKY HITS
+#EXTINF:-1,SKY SCI-FI & HORROR
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1682.ts&amp;streamtype=TSDOWNLOADER;name=SKY SCI-FI & HORROR
+#EXTINF:-1,SKY SCI-FI & HORROR HD
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1683.ts&amp;streamtype=TSDOWNLOADER;name=SKY SCI-FI & HORROR HD
+#EXTINF:-1,SKY DRAMA & ROMANCE HD
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1676.ts.ts&amp;streamtype=TSDOWNLOADER;name=SKY DRAMA & ROMANCE HD
+#EXTINF:-1,SKY TCM
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2334.ts.ts&amp;streamtype=TSDOWNLOADER;name=SKY TCM
 ##EXTINF:-1,FILM4 HD
-##EXTINF:-1,SKY DISNEY HD
-plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/testapp/testapp/4785.ts&amp;streamtype=TSDOWNLOADER;name=SKY DISNEY HD
+#EXTINF:-1,SKY DISNEY
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1674.ts.ts&amp;streamtype=TSDOWNLOADER;name=SKY DISNEY
+#EXTINF:-1,SKY DISNEY HD
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1675.ts.ts&amp;streamtype=TSDOWNLOADER;name=SKY DISNEY HD
 #EXTINF:-1,[COLOR yellow][I][B]-- UK ENTERTAINMENT CHANNELS --[/B][/I][/COLOR]
 
 #EXTINF:-1,UK GOLD
