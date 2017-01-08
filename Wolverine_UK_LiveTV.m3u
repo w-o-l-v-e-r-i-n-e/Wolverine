@@ -2,11 +2,11 @@
 #EXTINF:-1,[COLOR yellow][I][B]-- UK SPORTS CHANNELS --[/B][/I][/COLOR]
 
 #EXTINF:-1,SKY SPORTS 1
-plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1685.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 4
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1685.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 1
 #EXTINF:-1,SKY SPORTS 1 HD
 plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/725.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 1 HD
 #EXTINF:-1,SKY SPORTS 2
-plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1687.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 4
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1687.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 2
 #EXTINF:-1,SKY SPORTS 2 HD
 plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/726.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 2 HD
 #EXTINF:-1,SKY SPORTS 3
@@ -18,27 +18,27 @@ plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1691.t
 #EXTINF:-1,SKY SPORTS 4 HD
 plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/728.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 4 HD
 #EXTINF:-1,SKY SPORTS 5
-plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1693.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 4
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1693.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 5
 #EXTINF:-1,SKY SPORTS 5 HD
 plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/729.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 5 HD
 #EXTINF:-1,SKY SPORTS MIX
 plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2326.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS MIX
 #EXTINF:-1,SKY SPORTS F1
-plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1696.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 4
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1696.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS F1
 #EXTINF:-1,SKY SPORTS F1 HD
-plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/724.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 4
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/724.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS F1 HD
 #EXTINF:-1,SKY SPORTS NEWS
-plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1698.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS 4
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1698.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS NEWS
 ##EXTINF:-1,SKY SPORTS NEWS HD
 plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/701.ts&amp;streamtype=TSDOWNLOADER;name=SKY SPORTS NEWS HD
 #EXTINF:-1,BT SPORT 1
 plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/733.ts&amp;streamtype=TSDOWNLOADER;name=BT SPORT 1
 #EXTINF:-1,BT SPORT 1 HD
-plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1695.ts&amp;streamtype=TSDOWNLOADER;name=BT SPORT 1
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1695.ts&amp;streamtype=TSDOWNLOADER;name=BT SPORT 1 HD
 #EXTINF:-1,BT SPORT 2
 plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/732.ts&amp;streamtype=TSDOWNLOADER;name=BT SPORT 2
 #EXTINF:-1,BT SPORT 2 HD
-plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/732.ts&amp;streamtype=TSDOWNLOADER;name=BT SPORT 2
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/732.ts&amp;streamtype=TSDOWNLOADER;name=BT SPORT 2 HD
 #EXTINF:-1,BT SPORT 3 (EUROPE)
 plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1992.ts&amp;streamtype=TSDOWNLOADER;name=BT SPORT 3 (EUROPE)
 #EXTINF:-1,BT SPORT ESPN
@@ -80,7 +80,7 @@ plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2015.t
 #EXTINF:-1,[COLOR yellow][I][B]-- UK MOVIE CHANNELS --[/B][/I][/COLOR]
 
 #EXTINF:-1,SKY PREMIERE
-plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/2015.ts&amp;streamtype=TSDOWNLOADER;name=SKY PREMIERE
+plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1681.ts&amp;streamtype=TSDOWNLOADER;name=SKY PREMIERE
 #EXTINF:-1,SKY GREATS
 plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1679.ts&amp;streamtype=TSDOWNLOADER;name=SKY GREATS
 #EXTINF:-1,SKY FAMILY
