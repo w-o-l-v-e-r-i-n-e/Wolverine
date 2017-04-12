@@ -1,7 +1,12 @@
 #EXTM3U
 #EXTINF:-1,[COLOR yellow][I][B]-- UK SPORTS CHANNELS --[/B][/I][/COLOR]
 
-#EXTINF:-1,
+#EXTINF:-1,TEST
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/21987.ts
+#EXTINF:-1,TEST
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/21987.ts
+#EXTINF:-1,TEST
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/21987.ts
 #EXTINF:-1,[COLOR yellow][I][B]-- UK MOVIE CHANNELS --[/B][/I][/COLOR]
 
 #EXTINF:-1,SKY MOVIES - FAST & FURIOUS
