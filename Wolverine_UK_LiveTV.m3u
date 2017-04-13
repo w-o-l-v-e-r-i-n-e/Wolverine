@@ -1,19 +1,33 @@
 #EXTM3U
 #EXTINF:-1,[COLOR yellow][I][B]-- UK SPORTS CHANNELS --[/B][/I][/COLOR]
 
-#EXTINF:-1,TEST
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/21987.ts
-#EXTINF:-1,TEST2
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8205.ts
-#EXTINF:-1,TEST3
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/665.ts
 #EXTINF:-1,[COLOR yellow][I][B]-- UK MOVIE CHANNELS --[/B][/I][/COLOR]
 
 #EXTINF:-1,SKY MOVIES - FAST & FURIOUS
-plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/21987.ts&amp;streamtype=TSDOWNLOADER;name=FAST & FURIOUS
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/21987.ts
+#EXTINF:-1,SKY MOVIES - DISNEY
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8701.ts
 #EXTINF:-1,[COLOR yellow][I][B]-- UK ENTERTAINMENT CHANNELS --[/B][/I][/COLOR]
 
 #EXTINF:-1,UK GOLD
-plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8686.ts&amp;streamtype=TSDOWNLOADER;name=UK GOLD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8686.ts
+#EXTINF:-1,DAVE UK
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8688.ts
 #EXTINF:-1,[COLOR yellow][I][B]-- UK KIDS CHANNELS --[/B][/I][/COLOR]
 
+#EXTINF:-1,NICKELODEON
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/665.ts
+#EXTINF:-1,NICK JR
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8201.ts
+#EXTINF:-1,NICK TOONS
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8202.ts
+#EXTINF:-1,CARTOON NETWORK
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8205.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/680.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8204.ts
+#EXTINF:-1,DISNEY XD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8203.ts
+#EXTINF:-1,UK: CBEEBIES
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8200.ts
