@@ -16,7 +16,7 @@ plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso
 #EXTINF:-1,[COLOR yellow][I][B]-- UK KIDS CHANNELS --[/B][/I][/COLOR]
 
 #EXTINF:-1,NICKELODEON
-plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/665.ts&amp;streamtype=TSDOWNLOADER;name=NICKELODEON
+plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/21995.ts&amp;streamtype=TSDOWNLOADER;name=NICKELODEON
 #EXTINF:-1,NICK JR
 plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8201.ts&amp;streamtype=TSDOWNLOADER;name=NICK JR
 #EXTINF:-1,NICK TOONS
