@@ -485,41 +485,41 @@ http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13544.ts
 #EXTINF:-1,=======   UK:CHILDREN’S   =======
 http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8251.ts
 #EXTINF:-1,UK: Baby TV
-http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/11778.ts
+plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/11778.ts&amp;streamtype=TSDOWNLOADER;name=UK: Baby TV
 #EXTINF:-1,UK: Kix
-http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/11469.ts
+plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/11469.ts&amp;streamtype=TSDOWNLOADER;name=UK: Kix
 #EXTINF:-1,UK: Kix +1
-http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13584.ts
+plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13584.ts&amp;streamtype=TSDOWNLOADER;name=UK: Kix +1
 #EXTINF:-1,UK: Cartoon Network
-http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7034.ts
+plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7034.ts&amp;streamtype=TSDOWNLOADER;name=UK: Cartoon Network
 #EXTINF:-1,UK: NickJr Too
-http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7543.ts
+plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7543.ts&amp;streamtype=TSDOWNLOADER;name=UK: NickJr Too
 #EXTINF:-1,UK: Nick Jr  +1
-http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7544.ts
+plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7544.ts&amp;streamtype=TSDOWNLOADER;name=UK: Nick Jr  +1
 #EXTINF:-1,UK: Nicktoons
-http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7055.ts
+plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7055.ts&amp;streamtype=TSDOWNLOADER;name=UK: Nicktoons
 #EXTINF:-1,UK: Disney Junior
-http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7542.ts
+plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7542.ts&amp;streamtype=TSDOWNLOADER;name=UK: Disney Junior
 #EXTINF:-1,UK: Disney Channel
-http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7032.ts
+plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7032.ts&amp;streamtype=TSDOWNLOADER;name=UK: Disney Channel
 #EXTINF:-1,UK: Disney Channel +1
-plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/9555.ts&amp;streamtype=TSDOWNLOADER;name=Disney Channel +1
+plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/9555.ts&amp;streamtype=TSDOWNLOADER;name=UK: Disney Channel +1
 #EXTINF:-1,UK: Nickelodeon
-http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7366.ts
+plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7366.ts&amp;streamtype=TSDOWNLOADER;name=UK: Nickelodeon
 #EXTINF:-1,UK: Nickelodeon +1
-plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/12368.ts&amp;streamtype=TSDOWNLOADER;name=Disney Channel +1
+plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/12368.ts&amp;streamtype=TSDOWNLOADER;name=UK: Nickelodeon +1
 #EXTINF:-1,UK: DISNEY XD
-http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7070.ts
+plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7070.ts&amp;streamtype=TSDOWNLOADER;name=UK: DISNEY XD
 #EXTINF:-1,UK: DISNEY XD +1
-http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/12370.ts
+plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/12370.ts&amp;streamtype=TSDOWNLOADER;name=UK: DISNEY XD +1
 #EXTINF:-1,UK: CBEEBIES
-http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7079.ts
+plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7079.ts&amp;streamtype=TSDOWNLOADER;name=UK: CBEEBIES
 #EXTINF:-1,UK: CBBC
-http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7080.ts
+plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7080.ts&amp;streamtype=TSDOWNLOADER;name=UK: CBBC
 #EXTINF:-1,UK: Boomerang +1
-http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13597.ts
+plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13597.ts&amp;streamtype=TSDOWNLOADER;name=UK: Boomerang +1
 #EXTINF:-1,UK: Boomerang
-http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13598.ts
+plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13598.ts&amp;streamtype=TSDOWNLOADER;name=UK: Boomerang
 #EXTINF:-1,=======   UK:MUSIC  =======
 http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8253.ts
 #EXTINF:-1,UK: MTV Music
