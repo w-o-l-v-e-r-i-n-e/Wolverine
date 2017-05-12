@@ -507,7 +507,7 @@ plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJP
 #EXTINF:-1,UK: Nickelodeon
 http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7366.ts
 #EXTINF:-1,UK: Nickelodeon +1
-http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/12368.ts
+plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/12368.ts&amp;streamtype=TSDOWNLOADER;name=Disney Channel +1
 #EXTINF:-1,UK: DISNEY XD
 http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7070.ts
 #EXTINF:-1,UK: DISNEY XD +1
