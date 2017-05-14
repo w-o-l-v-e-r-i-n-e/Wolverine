@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1,=======   UK:ENTERTAINMENT   =======
 #EXTINF:-1,UK: BBC1 HD
 plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/6986.ts&amp;streamtype=TSDOWNLOADER;name=UK: BBC1 HD
 #EXTINF:-1,UK: BBC One NI HD
@@ -75,9 +74,9 @@ plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJP
 #EXTINF:-1,UK: Comedy Central Extra
 plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8255.ts&amp;streamtype=TSDOWNLOADER;name=UK: Comedy Central Extra
 #EXTINF:-1,UK: Comedy Central Xtra +1
-plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13590.ts&amp;streamtype=TSDOWNLOADER;name=Comedy Central Xtra +1
+plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13590.ts&amp;streamtype=TSDOWNLOADER;name=UK: Comedy Central Xtra +1
 #EXTINF:-1,UK: Sci-Fi
-plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7049.ts&amp;streamtype=TSDOWNLOADER;name=Sci-Fi
+plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7049.ts&amp;streamtype=TSDOWNLOADER;name=UK: Sci-Fi
 #EXTINF:-1,UK: ALIBI
 plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7085.ts&amp;streamtype=TSDOWNLOADER;name=UK: ALIBI
 #EXTINF:-1,UK: Alibi +1
@@ -226,8 +225,6 @@ plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJP
 plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/2927.ts&amp;streamtype=TSDOWNLOADER;name=UK: London Live
 #EXTINF:-1,UK: Made In Cardiff
 plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/14026.ts&amp;streamtype=TSDOWNLOADER;name=UK: Made In Cardiff
-#EXTINF:-1,=======   UK:LIFESTYLE & CULTURE   =======
-plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8250.ts&amp;streamtype=TSDOWNLOADER;name=CHANGE ME
 #EXTINF:-1,UK: Discovery Shed
 plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/6977.ts&amp;streamtype=TSDOWNLOADER;name=UK: Discovery Shed
 #EXTINF:-1,UK: Travel Channel
@@ -254,12 +251,10 @@ plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJP
 plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13537.ts&amp;streamtype=TSDOWNLOADER;name=UK: Home
 #EXTINF:-1,UK: Home +1
 plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13535.ts&amp;streamtype=TSDOWNLOADER;name=UK: Home +1
-#EXTINF:-1,=======   UK:MOVIES   =======
-plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8252.ts&amp;streamtype=TSDOWNLOADER;name=CHANGE ME
 #EXTINF:-1,UK: Sky Cinema Premiere HD
 plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7008.ts&amp;streamtype=TSDOWNLOADER;name=UK: Sky Cinema Premiere HD
 #EXTINF:-1,UK: Sky Cinema Premiere
-plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7007.ts&amp;streamtype=TSDOWNLOADER;name=Sky Cinema Premiere
+plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7007.ts&amp;streamtype=TSDOWNLOADER;name=UK: Sky Cinema Premiere
 #EXTINF:-1,UK: Sky Cinema Premier +1
 plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/9557.ts&amp;streamtype=TSDOWNLOADER;name=UK: Sky Cinema Premier +1
 #EXTINF:-1,UK: Sky Movies Comedy
@@ -319,15 +314,13 @@ plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJP
 #EXTINF:-1,UK: Sky Cinema Action & Adventure
 plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7023.ts&amp;streamtype=TSDOWNLOADER;name=UK: Sky Cinema Action & Adventure
 #EXTINF:-1,UK: Syfy
-plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7005.ts&amp;streamtype=TSDOWNLOADER;nameUK: Syfy
+plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7005.ts&amp;streamtype=TSDOWNLOADER;name=UK: Syfy
 #EXTINF:-1,UK: Syfy +1
 plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/9556.ts&amp;streamtype=TSDOWNLOADER;name=UK: Syfy +1
 #EXTINF:-1,UK: Sky Atlantic HD
 plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7045.ts&amp;streamtype=TSDOWNLOADER;name=UK: Sky Atlantic HD
 #EXTINF:-1,UK: Sky Atlantic +1
 plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/9558.ts&amp;streamtype=TSDOWNLOADER;name=UK: Sky Atlantic +1
-#EXTINF:-1,=======   UK:SPORT   =======
-plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8244.ts&amp;streamtype=TSDOWNLOADER;name=CHANGE ME
 #EXTINF:-1,UK: ITV Box Off HD 1
 plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/16085.ts&amp;streamtype=TSDOWNLOADER;name=UK: ITV Box Off HD 1
 #EXTINF:-1,UK: SKY SPORTS NEWS HQ HD
@@ -369,7 +362,7 @@ plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJP
 #EXTINF:-1,UK: Horse & Country
 plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13534.ts&amp;streamtype=TSDOWNLOADER;name=UK: Horse & Country
 #EXTINF:-1,UK: AT THE RACES
-plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/6984.ts&amp;streamtype=TSDOWNLOADER;name=AT THE RACES
+plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/6984.ts&amp;streamtype=TSDOWNLOADER;name=UK: AT THE RACES
 #EXTINF:-1,UK: Racing UK
 plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7376.ts&amp;streamtype=TSDOWNLOADER;name=UK: Racing UK
 #EXTINF:-1,UK: Bike
@@ -424,26 +417,10 @@ plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJP
 plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/12482.ts&amp;streamtype=TSDOWNLOADER;name=UK: Rangers TV
 #EXTINF:-1,UK: Celtic FC TV (Live for Matches )
 plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/12457.ts&amp;streamtype=TSDOWNLOADER;name=UK: Celtic FC TV (Live for Matches )
-#EXTINF:-1,Sky Net Sports 1 UK
-plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/14081.ts&amp;streamtype=TSDOWNLOADER;name=Sky Net Sports 1 UK
-#EXTINF:-1,Sky Net Sports 2 UK
-plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/14082.ts&amp;streamtype=TSDOWNLOADER;name=Sky Net Sports 2 UK
-#EXTINF:-1,Sky Net Sports 3 UK
-plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/14083.ts&amp;streamtype=TSDOWNLOADER;name=Sky Net Sports 3 UK
-#EXTINF:-1,Sky Net Sports 4 UK
-plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/14084.ts&amp;streamtype=TSDOWNLOADER;name=Sky Net Sports 4 UK
-#EXTINF:-1,Sky Net Sports 5 UK
-plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/14085.ts&amp;streamtype=TSDOWNLOADER;name=Sky Net Sports 5 UK
-#EXTINF:-1,=======   UK:NEWS   =======
-plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8246.ts&amp;streamtype=TSDOWNLOADER;name=CHANGE ME
 #EXTINF:-1,UK: BBC News
 plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7371.ts&amp;streamtype=TSDOWNLOADER;name=UK: BBC News
-#EXTINF:-1,=======   UK:DOCUMENTARIES   =======
-plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8247.ts&amp;streamtype=TSDOWNLOADER;name=CHANGE ME
 #EXTINF:-1,UK: Discovery Channel
 plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7026.ts&amp;streamtype=TSDOWNLOADER;name=UK: Discovery Channel
-#EXTINF:-1,Uk: Discovery Channel +1
-plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/10161.ts&amp;streamtype=TSDOWNLOADER;name=Uk: Discovery Channel +1
 #EXTINF:-1,UK: Discovery Turbo
 plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/6979.ts&amp;streamtype=TSDOWNLOADER;name=UK: Discovery Turbo
 #EXTINF:-1,UK: Discovery Science
@@ -482,8 +459,6 @@ plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJP
 plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13538.ts&amp;streamtype=TSDOWNLOADER;name=UK: History +1
 #EXTINF:-1,UK: GEO TV
 plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13544.ts&amp;streamtype=TSDOWNLOADER;name=UK: GEO TV
-#EXTINF:-1,=======   UK:CHILDREN’S   =======
-plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8251.ts&amp;streamtype=TSDOWNLOADER;name=CHANGE ME
 #EXTINF:-1,UK: Baby TV
 plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/11778.ts&amp;streamtype=TSDOWNLOADER;name=UK: Baby TV
 #EXTINF:-1,UK: Kix
@@ -520,8 +495,6 @@ plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJP
 plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13597.ts&amp;streamtype=TSDOWNLOADER;name=UK: Boomerang +1
 #EXTINF:-1,UK: Boomerang
 plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13598.ts&amp;streamtype=TSDOWNLOADER;name=UK: Boomerang
-#EXTINF:-1,=======   UK:MUSIC  =======
-plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8253.ts&amp;streamtype=TSDOWNLOADER;name=CHANGE ME
 #EXTINF:-1,UK: MTV Music
 plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13582.ts&amp;streamtype=TSDOWNLOADER;name=UK: MTV Music
 #EXTINF:-1,UK: MTV 90s
